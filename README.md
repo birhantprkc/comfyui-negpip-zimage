@@ -1,5 +1,12 @@
 # ComfyUI NegPiP Prompt
 
+<p align="center">
+  <img src="assets/icon.png" alt="NegPiP Prompt icon" width="200">
+</p>
+
+[![Tests](https://github.com/cyberdeliaAI/comfyui-negpip-zimage/actions/workflows/tests.yml/badge.svg)](https://github.com/cyberdeliaAI/comfyui-negpip-zimage/actions/workflows/tests.yml)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
+
 A standalone, single-node NegPiP implementation for **Z-Image**, **Z-Image
 Turbo**, **Krea 2**, **SD1**, **SDXL**, and **Anima**. The node patches the
 connected model, merges separate positive and negative text strings, and
